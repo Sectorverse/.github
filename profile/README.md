@@ -1,12 +1,14 @@
-## Hi there 👋
+#  ![sectorverse-logo-transparent](https://user-images.githubusercontent.com/61543012/194726651-de123292-4dff-4cea-bcf2-e01a41133641.png) Sectorverse
 
-<!--
+## Understanding sectors in 2022
+We now udnerstand that the financial markets include the success and influence of decentralized exchanges. The Sectorverse aims to be an all inclusive measurement of the various secotrs of the global markets INCLUDING thier decentralized counterparts. 
 
-**Here are some ideas to get you started:**
+💸 Know where to invest your capital!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📈 Know when you should restore your investments to stable and steady currencies.
+
+📉 Know why things are going down so you can position your portfolio accordingly.
+
+💹 Choose your preferred currency to view the platform from.
+
+#### An ECE Dapp
