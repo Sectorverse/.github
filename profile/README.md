@@ -11,4 +11,4 @@ We now understand that the financial markets include the success and influence o
 
 💹 Choose your preferred currency to view the platform from.
 
-#### An ECE Dapp
+#### [An ECE Dapp](https://github.com/eliascharlese)
